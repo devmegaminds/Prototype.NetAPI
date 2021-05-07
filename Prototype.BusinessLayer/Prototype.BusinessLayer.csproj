@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Prototype.DataAccessLayer\Prototype.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Prototype.Model\Prototype.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="IServices\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>
