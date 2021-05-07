@@ -1,0 +1,36 @@
+D:\Works\MM\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.deps.json
+D:\Works\MM\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Works\MM\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.pdb
+D:\Works\MM\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Works\MM\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Works\MM\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csprojAssemblyReference.cache
+D:\Works\MM\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.AssemblyInfoInputs.cache
+D:\Works\MM\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.AssemblyInfo.cs
+D:\Works\MM\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csproj.CoreCompileInputs.cache
+D:\Works\MM\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csproj.CopyComplete
+D:\Works\MM\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Works\MM\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.deps.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csprojAssemblyReference.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.AssemblyInfoInputs.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.AssemblyInfo.cs
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csproj.CoreCompileInputs.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csproj.CopyComplete
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.deps.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Common.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csprojAssemblyReference.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.AssemblyInfoInputs.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.AssemblyInfo.cs
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csproj.CoreCompileInputs.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.csproj.CopyComplete
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.Common\obj\Debug\netcoreapp3.1\Prototype.Common.pdb

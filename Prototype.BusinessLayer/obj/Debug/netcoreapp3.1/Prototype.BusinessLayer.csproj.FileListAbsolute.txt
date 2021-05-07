@@ -1,0 +1,42 @@
+D:\Works\MM\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.deps.json
+D:\Works\MM\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Works\MM\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb
+D:\Works\MM\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Works\MM\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Works\MM\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Works\MM\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Works\MM\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csprojAssemblyReference.cache
+D:\Works\MM\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.AssemblyInfoInputs.cache
+D:\Works\MM\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.AssemblyInfo.cs
+D:\Works\MM\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Works\MM\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csproj.CopyComplete
+D:\Works\MM\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Works\MM\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.deps.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csprojAssemblyReference.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.AssemblyInfoInputs.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.AssemblyInfo.cs
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csproj.CopyComplete
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.deps.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csprojAssemblyReference.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.AssemblyInfoInputs.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.AssemblyInfo.cs
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.csproj.CopyComplete
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.BusinessLayer\obj\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb

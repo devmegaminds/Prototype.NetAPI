@@ -1,0 +1,108 @@
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\DataFile\data.json
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.exe
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.deps.json
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.runtimeconfig.json
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.runtimeconfig.dev.json
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.pdb
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Common.pdb
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Works\MM\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csprojAssemblyReference.cache
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.AssemblyInfoInputs.cache
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.AssemblyInfo.cs
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csproj.CoreCompileInputs.cache
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.RazorTargetAssemblyInfo.cache
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csproj.CopyComplete
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\staticwebassets\Prototype.API.StaticWebAssets.Manifest.cache
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\staticwebassets\Prototype.API.StaticWebAssets.xml
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.dll
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.pdb
+D:\Works\MM\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.genruntimeconfig.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\DataFile\data.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.exe
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.deps.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.runtimeconfig.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.runtimeconfig.dev.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Common.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csprojAssemblyReference.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.AssemblyInfoInputs.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.AssemblyInfo.cs
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csproj.CoreCompileInputs.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\staticwebassets\Prototype.API.StaticWebAssets.Manifest.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\staticwebassets\Prototype.API.StaticWebAssets.xml
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Prototype.API.styles.css
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.RazorTargetAssemblyInfo.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csproj.CopyComplete
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.genruntimeconfig.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Common.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Model.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.BusinessLayer.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Common.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.Model.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csprojAssemblyReference.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.AssemblyInfoInputs.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.AssemblyInfo.cs
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csproj.CoreCompileInputs.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\staticwebassets\Prototype.API.StaticWebAssets.Manifest.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\staticwebassets\Prototype.API.StaticWebAssets.xml
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Prototype.API.styles.css
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.RazorTargetAssemblyInfo.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\DataFile\data.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.exe
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.deps.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.runtimeconfig.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.runtimeconfig.dev.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\bin\Debug\netcoreapp3.1\Prototype.API.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.csproj.CopyComplete
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.API\obj\Debug\netcoreapp3.1\Prototype.API.genruntimeconfig.cache

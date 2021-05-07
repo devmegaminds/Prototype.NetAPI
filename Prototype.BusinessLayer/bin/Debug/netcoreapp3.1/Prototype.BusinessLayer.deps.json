@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Prototype.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "Prototype.DataAccessLayer": "1.0.0",
+          "Prototype.Model": "1.0.0"
+        },
+        "runtime": {
+          "Prototype.BusinessLayer.dll": {}
+        }
+      },
+      "Prototype.DataAccessLayer/1.0.0": {
+        "runtime": {
+          "Prototype.DataAccessLayer.dll": {}
+        }
+      },
+      "Prototype.Model/1.0.0": {
+        "runtime": {
+          "Prototype.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prototype.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prototype.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prototype.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

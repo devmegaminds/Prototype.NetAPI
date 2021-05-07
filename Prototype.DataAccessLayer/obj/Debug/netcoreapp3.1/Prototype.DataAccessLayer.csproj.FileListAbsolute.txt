@@ -1,0 +1,25 @@
+D:\Works\MM\Prototype\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.deps.json
+D:\Works\MM\Prototype\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Works\MM\Prototype\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Works\MM\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Works\MM\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.AssemblyInfo.cs
+D:\Works\MM\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Works\MM\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Works\MM\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.deps.json
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.csprojAssemblyReference.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.AssemblyInfo.cs
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Work\Demo\Practical Test\Prototype\Prototype\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.deps.json
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.DataAccessLayer\bin\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.AssemblyInfo.cs
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.dll
+D:\Work\Ramesh Babu\Prototype.NetAPI\Prototype.DataAccessLayer\obj\Debug\netcoreapp3.1\Prototype.DataAccessLayer.pdb
